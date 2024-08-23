@@ -24,5 +24,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 # Screenshots
-<img src="https://github.com/GurpreetAndroid/navigation_drawer_flutter/blob/master/screenshots/Screenshot_1.png" width="185" height="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/GurpreetAndroid/navigation_drawer_flutter/blob/master/screenshots/Screenshot_1.png" width="185" height="400"> 
+<img src="https://github.com/GurpreetAndroid/navigation_drawer_flutter/blob/master/screenshots/Screenshot_1.png" width="185" height="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/GurpreetAndroid/navigation_drawer_flutter/blob/master/screenshots/Screenshot_2.png" width="185" height="400"> 
 
