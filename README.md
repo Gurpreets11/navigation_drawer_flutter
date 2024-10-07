@@ -1,6 +1,7 @@
 # drawer_fapp
 
-A new Flutter project for left navigation drawer.
+A new Flutter project for left navigation drawer with custom design.
+
 
 
 ## Getting Started
